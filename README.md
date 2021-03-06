@@ -1,7 +1,10 @@
 ### Hi there 👋
 [![telegram badge](https://img.shields.io/badge/Eric-Daniyel-30302f?style=flat&logo=telegram)](https://t.me/Erichome)
 
+
+
 - 👻 I’m currently studying 
+- malayali😎
 - 🤓 I’m currently Testing TG Botz and playing online games😎
 - 💬 Ask me about anything
 - 📫 How to reach me: Telegram - [@Erichome](https://t.me/Erichome)
